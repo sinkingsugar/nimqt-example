@@ -1,6 +1,6 @@
 # Qt and nim sample
 
-### By leveraging nimline/fragments (https://github.com/fragcolor-xyz/nimline) easily use Qt with nim
+#### By leveraging nimline/fragments (https://github.com/fragcolor-xyz/nimline) easily use Qt with nim
 
 ## Things to notice:
 
